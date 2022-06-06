@@ -15,7 +15,7 @@
   </table>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/981361760311341156)](https://discord.com/users/981361760311341156)
+[![Discord Presence](https://lanyard.cnrad.dev/api/936977459289677905)](https://discord.com/users/936977459289677905)
 
 ---
 
