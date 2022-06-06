@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/981361760311341156)](https://discord.com/users/981361760311341156)
+
 <!--
 **BonaQuaHub/BonaQuaHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
