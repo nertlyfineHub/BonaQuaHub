@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/936977459289677905)](https://discord.com/users/936977459289677905)
+[![Discord Presence](https://lanyard.cnrad.dev/api/790614903622729818)](https://discord.com/users/790614903622729818)
 
 ---
 
