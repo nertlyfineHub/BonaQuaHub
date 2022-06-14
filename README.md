@@ -1,8 +1,7 @@
 ### Привет, я BonaQua
 
 - 🔭 В основном знаю и изучаю язык **JavaScript**!
-<br />
-
+- 
 ### Языки и инструменты:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/IRoscom/IRoscom/master/assets/visual-studio-code.svg"/>](https://code.visualstudio.com/)
