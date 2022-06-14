@@ -25,7 +25,6 @@
 [steam]: https://steamcommunity.com/id/roscom/
 [telegram]: https://t.me/roscom
 
-
----
+<br />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/981361760311341156)](https://discord.com/users/981361760311341156)
